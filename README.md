@@ -35,4 +35,4 @@ The Expense Tracker is a React-based web application designed to help users mana
 ```bash
    npm i
    npm start
-```#
+```
